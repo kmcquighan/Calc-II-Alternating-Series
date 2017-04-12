@@ -8,6 +8,7 @@ These tools can be used to visualize different improper integrals.
 import matplotlib
 from matplotlib import pyplot as plt
 import numpy as np
+from numpy import *
 from matplotlib.ticker import MaxNLocator
 colors = ['#A90000', '#D06728', '#D9A621', '#008040', '#0080FF', '#7B00F1']
 
